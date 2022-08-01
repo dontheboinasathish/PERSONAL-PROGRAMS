@@ -1,0 +1,62 @@
+/* .posRel {
+    position: relative;
+
+}
+
+.posAbs {
+    position: absolute;
+
+}
+
+.bottom1 {
+    bottom: 7px;
+
+}
+
+.top1 {
+    top: 5px;
+} */
+
+.sasas {
+    background-color: salmon;
+    height: 100%;
+    width: 10px;
+    color: #00ffff;
+}
+
+.rees:hover {
+    background-color: yellow;
+}
+
+.sdsd:hover {
+    background-color: cyan;
+}
+
+.posRel {
+    position: relative;
+}
+
+.posAbs {
+    position: absolute;
+    margin-left: 50px;
+}
+
+.lenth1 {
+    margin-left: 50px;
+}
+
+.lenth2 {
+    margin-left: 50px;
+}
+
+.lenth3 {
+    margin-left: 50px;
+}
+
+.lenth4 {
+    margin-left: 50px;
+}
+
+.lenth5 {
+    margin-left: 50px;
+}
