@@ -1,0 +1,17 @@
+.form-control {
+    width: 50%;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.card-main {
+    /* background-color: darkslategray; */
+    width: 40%;
+    margin-top: 30px;
+    margin-left: 40px;
+
+}
+
+.card-last {
+    color: green;
+}

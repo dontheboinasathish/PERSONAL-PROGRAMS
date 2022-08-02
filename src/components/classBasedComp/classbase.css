@@ -1,0 +1,16 @@
+
+.card-body1{
+    box-shadow:  0 0 5px black;
+    width: 300px;
+    margin: 30px;
+    padding: 10px;
+    text-align: center;
+    background-color: teal;
+    color:whitesmoke;
+  
+  }
+  .navbar{
+    background-color: deepskyblue;
+    font-size: 20px;
+    padding: 5px;
+  }
